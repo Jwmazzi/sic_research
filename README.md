@@ -34,10 +34,10 @@
 <p>The following links will direct you to a set of Google Drive folders containing research literature and undergraduate poster presentations surrounding Social Identity Complexity: </p>
 <ul>
 	<li>
-	<a href="https://drive.google.com/drive/folders/0B5SPOPlZuJ4FSXRqNGFNaGQ0dWM?usp=sharing">Published Articles</a> </p>
+	<a href="https://drive.google.com/drive/folders/0B5SPOPlZuJ4FSXRqNGFNaGQ0dWM?usp=sharing" target="_blank">Published Articles</a> </p>
 	</li>
 	<li>
-	<a href="https://drive.google.com/open?id=0B5SPOPlZuJ4FODZJa3FkN2ZKNG8">Research Posters</a>
+	<a href="https://drive.google.com/open?id=0B5SPOPlZuJ4FODZJa3FkN2ZKNG8" target="_blank">Research Posters</a>
 	</li>
 </ul>
 <br/><br/>
