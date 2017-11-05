@@ -52,7 +52,7 @@ A brief introduction of terms that are useful in describing the geometric config
 
 <div>
 	<h3>Subject 14 @ Time 1</h3>
-	<img src='https://github.com/Jwmazzi/sic/blob/master/illustrations/SUB_14_T1.jpg'/>
+	<img src='https://github.com/Jwmazzi/sic_research/blob/master/illustrations/SUB_14_T1.jpg'/>
 	<h4>Subgroup One (Primary Identity)</h4>
 	<ul>
 		<li>1: Daughter</li>
@@ -68,7 +68,7 @@ A brief introduction of terms that are useful in describing the geometric config
 
 <div>
 	<h3>Subject 14 @ Time 2</h3>
-	<img src='https://github.com/Jwmazzi/sic/illustrations/SUB_14_T2.jpg'/>
+	<img src='https://github.com/Jwmazzi/sic_research/blob/master/illustrations/SUB_14_T2.jpg'/>
 	<h4>Subgroup One (Primary Identity)</h4>
 	<ul>
 		<li>1: Daughter</li>
