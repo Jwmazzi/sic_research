@@ -1,4 +1,4 @@
-<h2>External Dependencies</h2>
+<h2>Python Dependencies</h2>
 <h4>Psycopg2</h4>
 <p>You can install the Windows port from one of the following links:</p>
 <ul>
@@ -10,7 +10,7 @@
 
 <h2>Python Files: py</h2>
 <h4>gauntlet.py</h4>
-<p>Handles spatial SQL queries submitted to the database with Psycopg2.<p>
+<p>Handles spatial SQL queries submitted to the database with Psycopg2. Attributes for each Subject are generated from the result of these queries.<p>
 <h4>main.py</h4> 
 <p>Generates a Subject instance for each individual in the original sample. The function genSubjectList (gauntlet.py) is currently set to only query the following subjects: 14, 47, 58, 62, 114. All subjects will be part of the query when the Subject class is expanded to treat aspects of individual subgroup configurations.</p> 
 <h4>subject.py</h4> 
@@ -31,13 +31,13 @@
 
 
 <h2>Prior Research</h2>
-<p>The following links will direct you to a set of Google Drive folders containing research literature and undergraduate poster presentations surrounding Social Identity Complexity: </p>
+<p>The following links will direct you to Google Drive folders containing research literature and undergraduate poster presentations surrounding Social Identity Complexity: </p>
 <ul>
 	<li>
-	<a href="https://drive.google.com/drive/folders/0B5SPOPlZuJ4FSXRqNGFNaGQ0dWM?usp=sharing" target="_blank">Published Articles</a> </p>
+	<a href="https://drive.google.com/drive/folders/0B5SPOPlZuJ4FSXRqNGFNaGQ0dWM?usp=sharing">Published Articles</a> </p>
 	</li>
 	<li>
-	<a href="https://drive.google.com/open?id=0B5SPOPlZuJ4FODZJa3FkN2ZKNG8" target="_blank">Research Posters</a>
+	<a href="https://drive.google.com/open?id=0B5SPOPlZuJ4FODZJa3FkN2ZKNG8">Research Posters</a>
 	</li>
 </ul>
 <br/><br/>
