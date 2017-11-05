@@ -40,7 +40,7 @@
 	<a href="https://drive.google.com/open?id=0B5SPOPlZuJ4FODZJa3FkN2ZKNG8">Research Posters</a>
 	</li>
 </ul>
-<br/><br/>
+<br/>
 
 
 <h2>An Overview of the Subject Model</h2>
