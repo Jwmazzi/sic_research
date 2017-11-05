@@ -31,11 +31,15 @@
 
 
 <h2>Prior Research</h2>
-<p>The following link will direct you to a shared Google Drive space with several key pieces of research literature. Each of these documents should provide you with a general understanding of other research efforts dedicated to the subject of Social Identity: <a href="https://drive.google.com/drive/folders/0B5SPOPlZuJ4FSXRqNGFNaGQ0dWM?usp=sharing">Google Drive</a> </p>
-
-<br/>
-
-<p>The following link will direct you to a shared Google Drive space with two undergradute research posters that help illustrate some of the initial work with this geographic model: <a href="https://drive.google.com/open?id=0B5SPOPlZuJ4FODZJa3FkN2ZKNG8">Google Drive</a></p>
+<p>The following links will direct you to a set of Google Drive folders containing research literature and undergraduate poster presentations surrounding Social Identity Complexity: </p>
+<ul>
+	<li>
+	<a href="https://drive.google.com/drive/folders/0B5SPOPlZuJ4FSXRqNGFNaGQ0dWM?usp=sharing">Published Articles</a> </p>
+	</li>
+	<li>
+	<a href="https://drive.google.com/open?id=0B5SPOPlZuJ4FODZJa3FkN2ZKNG8">Research Posters</a>
+	</li>
+</ul>
 <br/><br/>
 
 
