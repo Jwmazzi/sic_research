@@ -44,11 +44,3 @@ class Subject:
             self.ConfigA = 0
             self.ConfigB = 0
             self.ConfigurationID = None
-
-
-
-
-
-        
-
-    
