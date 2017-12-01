@@ -194,6 +194,3 @@ def R1_INT_COUNT(subject, time):
         res = res[1]
     return res
     
-
-
-
