@@ -1,35 +1,3 @@
-<h2>Python Dependencies</h2>
-<h4>Psycopg2</h4>
-<p>You can install the Windows port from one of the following links:</p>
-<ul>
-	<li>http://initd.org/psycopg/download/</li>
-	<li>http://www.stickpeople.com/projects/python/win-psycopg/</li>
-</ul>
-<br/>
-
-
-<h2>Python Files: py</h2>
-<h4>gauntlet.py</h4>
-<p>Handles spatial SQL queries submitted to the database with Psycopg2. Attributes for each Subject are generated from the result of these queries.<p>
-<h4>main.py</h4> 
-<p>Generates a Subject instance for each individual in the original sample. The function genSubjectList (gauntlet.py) is currently set to only query the following subjects: 14, 47, 58, 62, 114. All subjects will be part of the query when the Subject class is expanded to treat aspects of individual subgroup configurations.</p> 
-<h4>subject.py</h4> 
-<p>Handles the class model for a given subject. The current plan is to expand upon how individual subgroup configurations are treated.</p>
-<h4>util.py</h4>
-<p>Simple console logging. CSV documentation and plotting functions will be added back to this module after the Subject class model has been completed.</p>
-<br/>
-
-
-<h2>PostgreSQL: postgres</h2>
-<p>A backup file containing the following tables:</p>
-<ul>
-	<li>originxy: Point of Origin for the plane provided in each subject response.</li>
-	<li>t1_circles: Collection of subject responses collected at Time One.</li>
-	<li>t2_circles: Collection of subject responses collected at Time Two.</li>
-</ul>
-<br/>
-
-
 <h2>Prior Research</h2>
 <p>The following links will direct you to Google Drive folders containing research literature and undergraduate poster presentations surrounding Social Identity Complexity: </p>
 <ul>
@@ -41,7 +9,6 @@
 	</li>
 </ul>
 <br/>
-
 
 <h2>An Overview of the Subject Model</h2>
 <p>Presented below is a visual guide to how this research will be approaching geometric representations of the social self.
@@ -91,3 +58,32 @@ A brief introduction of terms that are useful in describing the geometric config
 		<li>4: Friend</li>
 	</ul>
 </div>
+
+<h2>Python Files: py</h2>
+<h4>gauntlet.py</h4>
+<p>Handles spatial SQL queries submitted to the database with Psycopg2. Attributes for each Subject are generated from the result of these queries.<p>
+<h4>main.py</h4> 
+<p>Generates a Subject instance for each individual in the original sample. The function genSubjectList (gauntlet.py) is currently set to only query the following subjects: 14, 47, 58, 62, 114. All subjects will be part of the query when the Subject class is expanded to treat aspects of individual subgroup configurations.</p> 
+<h4>subject.py</h4> 
+<p>Handles the class model for a given subject. The current plan is to expand upon how individual subgroup configurations are treated.</p>
+<h4>util.py</h4>
+<p>Simple console logging. CSV documentation and plotting functions will be added back to this module after the Subject class model has been completed.</p>
+<br/>
+
+<h2>Python Dependencies</h2>
+<h4>Psycopg2</h4>
+<p>You can install the Windows port from one of the following links:</p>
+<ul>
+	<li>http://initd.org/psycopg/download/</li>
+	<li>http://www.stickpeople.com/projects/python/win-psycopg/</li>
+</ul>
+<br/>
+
+<h2>PostgreSQL: postgres</h2>
+<p>A backup file containing the following tables:</p>
+<ul>
+	<li>originxy: Point of Origin for the plane provided in each subject response.</li>
+	<li>t1_circles: Collection of subject responses collected at Time One.</li>
+	<li>t2_circles: Collection of subject responses collected at Time Two.</li>
+</ul>
+<br/>
