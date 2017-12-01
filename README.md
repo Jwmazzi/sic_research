@@ -58,6 +58,7 @@ A brief introduction of terms that are useful in describing the geometric config
 		<li>4: Friend</li>
 	</ul>
 </div>
+<br/>
 
 <h2>Python Files: py</h2>
 <h4>gauntlet.py</h4>
